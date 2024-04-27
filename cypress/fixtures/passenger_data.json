@@ -1,10 +1,10 @@
 {
-  "TRAIN_NO": "12365",
+  "TRAIN_NO": "12366",
   "TRAIN_COACH": "CC",
   "TRAVEL_DATE": "25/04/2024",
-  "SOURCE_STATION": "pnbe",
+  "SOURCE_STATION": "gaya",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "gaya",
+  "DESTINATION_STATION": "pnbe",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
